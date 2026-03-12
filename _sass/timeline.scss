@@ -67,8 +67,8 @@
 
 .img-me {
     z-index: 100;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     border-radius: 20%;
     text-align: center;
     background-color: #fff;
@@ -133,8 +133,8 @@
     }
 
     .timeline>li {
-        margin-bottom: 100px;
-        min-height: 100px;
+        margin-bottom: 220px;
+        min-height: 220px;
     }
 
     .timeline>li .timeline-panel {
@@ -147,17 +147,17 @@
     .timeline>li .timeline-image {
         visibility: visible;
         left: 9%;
-        width: 100px;
-        height: 100px;
-        margin-left: -50px;
+        width: 220px;
+        height: 220px;
+        margin-left: -110px;
     }
 
     .img-me {
         //left: 50%;
         width: auto;
         height: auto;
-        max-width: 86px;
-        max-height: 86px;
+        max-width: 200px;
+        max-height: 200px;
     }
 
     .timeline>li .timeline-image h4 {
@@ -192,14 +192,14 @@
 
     .timeline>li .timeline-image {
         visibility: visible;
-        width: 150px;
-        height: 150px;
-        margin-left: -75px;
+        width: 220px;
+        height: 220px;
+        margin-left: -110px;
     }
 
     .img-me {
-        max-width:120px;
-        max-height:120px;
+        max-width:220px;
+        max-height:220px;
         width: auto;
         height: auto;
     }
