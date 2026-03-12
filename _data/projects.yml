@@ -2,11 +2,11 @@
 - name: CAPP30122 Project - Political Narrative Navigator
   gh_user: karen1iao
   repo: project-sentimeter
-  img: '/images/graphs1.png'
+  img: '/images/graphs1.jpg'
   video_url: 'https://drive.google.com/file/d/1hsBn_nMEz3CIiCyIwVzffFynoKf4ftwV/view'
   desc: |
-    The project repo is private but available to share upon request.
-    A tool that analyzes how political narratives match the topics people care about most.
+    Note: The project repo is private but available to share upon request.
+    This tool analyzes how political narratives match the topics people care about most.
     The objective of this project is to analyze U.S. presidential campaign speeches and examine how closely they align with public opinion.
     The project addresses two main questions: 1. Do candidates' speeches reflect the issues voters care about? 2. What is the relationship between voter priorities and political speech?
     We analyze campaign speeches from the 2016, 2020, and 2024 U.S. presidential elections. Using text analysis, we identify the most prominent themes in each candidate's speeches and compare them with public opinion data from YouGov.
